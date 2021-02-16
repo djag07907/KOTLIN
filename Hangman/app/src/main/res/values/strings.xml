@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">El Ahorcado (Hangman)</string>
+    <string name="turn">Turno:</string>
+    <string name="player">No dejes que se muera</string>
+    <string name="play">Iniciar</string>
+    <string name="hangman">Ahorcado</string>
+    <string name="guess">Adivina... ¿Cuál será?</string>
+    <string name="todo">TODO</string>
+    <string name="trystring">A ver...</string>
+    <string-array name="guessWords">
+        <item>Transistor</item>
+        <item>CocaCola</item>
+        <item>Transilvania</item>
+        <item>Capitalismo</item>
+        <item>Feudalismo</item>
+        <item>Kotlin</item>
+        <item>Felicidad</item>
+        <item>Refresco</item>
+        <item>Merlot</item>
+        <item>Ingeniebrios</item>
+        <item>Cerveza</item>
+        <item>Monstruo</item>
+        <item>Lambda</item>
+        <item>Desarrollo</item>
+        <item>Cafe</item>
+        <item>Competitivo</item>
+    </string-array>
+</resources>
